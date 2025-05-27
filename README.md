@@ -1,13 +1,10 @@
 # CvParser
 
-CvParser is a tool for extracting and processing information from CVs and resumes. It helps automate the parsing of candidate data for HR and recruitment workflows.
+CvParser is a tool for parsing cs.ee website
 
 ## Features
 
-- Extracts key information (name, contact, skills, experience) from CVs
-- Supports multiple file formats (PDF, DOCX, TXT)
-- Easy integration into existing HR systems
-- Customizable parsing rules
+- Extracts key information
 
 ## Getting Started
 
