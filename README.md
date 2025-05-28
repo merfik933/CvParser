@@ -1,6 +1,6 @@
 # CvParser
 
-CvParser is a tool for parsing cs.ee website
+CvParser is a tool for parsing cv.ee website
 
 ## Features
 
